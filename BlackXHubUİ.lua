@@ -1207,12 +1207,12 @@ local function getObjGen()
             Gui.Watermark.Name = "Watermark"
             Gui.Watermark.Parent = Gui.Window
             Gui.Watermark.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-            Gui.Watermark.BackgroundTransparency = 0.000
+            Gui.Watermark.BackgroundTransparency = 1.000
             Gui.Watermark.Size = UDim2.new(0.5, 0, 0.0199999996, 0)
             Gui.Watermark.Font = Enum.Font.Gotham
             Gui.Watermark.Text = "BlackXHub | nil | nil"
             Gui.Watermark.TextColor3 = Color3.fromRGB(255, 255, 255)
-            Gui.Watermark.TextSize = 14.000
+            Gui.Watermark.TextSize = 0.000
             Gui.Watermark.TextStrokeTransparency = 0.800
             Gui.Watermark.TextXAlignment = Enum.TextXAlignment.Left
             Gui.Watermark.Position = UDim2.new(0, 0, 0, 0)
